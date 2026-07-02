@@ -1,6 +1,6 @@
 # Stereographic Camera and Viewer
 
-Take and view 3D images
+Take and view 3D images and send them automatically to Lightroom or some different folder.
 
 ## Bill of Materials Camera Rig
 - Aluminium square profile 10x10x1mm (or thicker if you like) 
