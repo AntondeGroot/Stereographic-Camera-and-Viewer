@@ -23,7 +23,9 @@ detent
 
 
 ## Bill of Materials Headset Viewer
-
+- Raspberry Pi Zero W. This one is fine, you don't need the 2W variant for just viewing the images
+- LCD Screen: Mini HDMI-compatibel display 3,5 inch for raspberry pi e.g. aliexpress.com/item/1005003573751563.html
+- A running raspberry pi server.
 
 # Step 0 Proof of Concept
 
