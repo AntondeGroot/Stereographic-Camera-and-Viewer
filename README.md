@@ -2,7 +2,7 @@
 
 Take and view 3D images
 
-## Bill of Materials
+## Bill of Materials Camera
 - Aluminium square profile 10x10x1mm 
 - Aluminum Square profile 15x15x1.5mm (if you want to be able to extend it)
 - Raspberry Pi Zero 2W
@@ -15,3 +15,5 @@ detent
 
 trigger cables
 2.5 mm 3 poles jack cable
+
+## Bill of Materials Viewer
