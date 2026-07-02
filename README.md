@@ -22,3 +22,6 @@ detent
 
 
 ## Bill of Materials Headset Viewer
+
+
+# Step 0 Proof of Concept
