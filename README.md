@@ -8,7 +8,7 @@ Take and view 3D images and send them automatically to Lightroom or some differe
 - Raspberry Pi Zero 2W
 - LCD Screen: Mini HDMI-compatibel display 3,5 inch for raspberry pi e.g. aliexpress.com/item/1005003573751563.html
 - Battery: Pisugar 3 5000mah or powerbank (5v?)
-- 2x mini-hdmi to usb cables????? (check your own camera what hdmi cable is required, hdmi/micro-hdmi/mini-hdmi)
+- 2x data cables (e.g. micro-b usb to usb-a) (check your own camera what is required)
 
 detent 
 
