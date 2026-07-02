@@ -21,4 +21,4 @@ detent
 2 DSLR's with the same lens.
 
 
-## Bill of Materials Viewer
+## Bill of Materials Headset Viewer
