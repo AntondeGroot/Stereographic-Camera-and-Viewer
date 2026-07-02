@@ -9,6 +9,7 @@ Take and view 3D images
 - LCD Screen
 - Battery: Pisugar 3 5000mah or powerbank (5v?)
 
+detent 
 
 2 DSLR's with the same lens.
 
