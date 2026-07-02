@@ -11,9 +11,14 @@ Take and view 3D images
 
 detent 
 
+#### trigger cable
+
+- 2x trigger cables, e.g. for Nikon D5300: N3 trigger cables to 2.5mm 3 pole jack female
+- 1x 2.5mm Jack splitter 2xFemale to 1xMale 3 pole cable!
+- Reset button (Normally Open)
+- Heatshrink
+
 2 DSLR's with the same lens.
 
-trigger cables
-2.5 mm 3 poles jack cable
 
 ## Bill of Materials Viewer
