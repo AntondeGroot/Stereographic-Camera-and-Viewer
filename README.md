@@ -33,4 +33,4 @@ To trigger a photo you only need to connect the wire that goes to the tip of the
 
 Basic requirement:
 - 1 camera with lens
-- 1 hdmi to usb cable 
+- 1 data cable (e.g. micro-b usb to a, check your camera)
