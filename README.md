@@ -21,7 +21,7 @@ To trigger a photo you only need to connect the wire that goes to the tip of the
 - Reset button (Normally Open)
 - Heatshrink
 
-2 DSLR's with the same lens.
+2 DSLR's with the same lens. Preferably internal zoom lenses.
 
 
 ## Bill of Materials Headset Viewer
