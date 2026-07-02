@@ -12,4 +12,5 @@ Take and view 3D images
 
 2 DSLR's with the same lens.
 
-2.5 mm
+trigger cables
+2.5 mm 3 poles jack cable
