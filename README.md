@@ -8,6 +8,7 @@ Take and view 3D images
 - Raspberry Pi Zero 2W
 - LCD Screen
 - Battery: Pisugar 3 5000mah or powerbank (5v?)
+- 2x mini-hdmi to usb cables????? (check your own camera what hdmi cable is required, hdmi/micro-hdmi/mini-hdmi)
 
 detent 
 
@@ -25,3 +26,7 @@ detent
 
 
 # Step 0 Proof of Concept
+
+Basic requirement:
+- 1 camera with lens
+- 1 hdmi to usb cable 
