@@ -14,6 +14,8 @@ detent
 
 #### trigger cable
 
+To trigger a photo you only need to connect the wire that goes to the tip of the jack, to the wire that connects to the sleeve of the jack.
+
 - 2x trigger cables, e.g. for Nikon D5300: N3 trigger cables to 2.5mm 3 pole jack female
 - 1x 2.5mm Jack splitter 2xFemale to 1xMale 3 pole cable!
 - Reset button (Normally Open)
