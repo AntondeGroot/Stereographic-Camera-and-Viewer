@@ -10,5 +10,6 @@ Take and view 3D images
 - Battery: Pisugar 3 5000mah or powerbank (5v?)
 
 
+2 DSLR's with the same lens.
 
-
+2.5 mm
