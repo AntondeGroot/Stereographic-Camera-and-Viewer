@@ -1,5 +1,7 @@
 # Stereographic Camera and Viewer
 
+https://medium.com/stereopi/diy-vr-helmet-for-the-stereopi-10-ms-latency-for-just-135-4c42eb60c6dc
+
 Take and view 3D images and send them automatically to Lightroom or some different folder.
 
 ## Bill of Materials Camera Rig
